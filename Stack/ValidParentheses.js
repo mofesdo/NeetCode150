@@ -36,6 +36,6 @@ class Solution {
      * @return {boolean}
      */
     isValid(s) {
-        
+        //figuring out how to do this kata
     }
 }
